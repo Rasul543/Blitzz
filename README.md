@@ -1,2 +1,0 @@
-# Blitzz
-Blitz Not Developer
